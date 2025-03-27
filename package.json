@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "start": "retype start"
+        "start": "retype start",
+        "dev": "retype start"
     },
     "dependencies": {}
 }
