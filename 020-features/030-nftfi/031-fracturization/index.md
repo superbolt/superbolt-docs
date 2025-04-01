@@ -33,3 +33,5 @@ The algorithm used is determined by the NFT collection creator. Either:
 - Variable number of fractions for NFTs based upon rarity
 
 ## Trading and recombining fractions
+
+Superbolt provides a seamless fractionalized NFT trading experience. The default view on the Marketplace will display both listed NFTs and fractionalized NFTs in the UI. Selecting to view only Marketplace listed NFTs or only fraztionalized NFTs will also be possible.
