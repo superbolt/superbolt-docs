@@ -15,4 +15,6 @@ Also, planned are integrations with DAO DAO and Superbolt Superpools, making it 
 
 ## How to upload an NFT collection to Foundry
 
-https://youtu.be/wF76C2BqizA?si=Kj9-eAu-WBePUpXF
+Discover how easy it is to upload NFT collections using Superbolt Foundry in the following video.
+
+🎥 https://youtu.be/wF76C2BqizA?si=Kj9-eAu-WBePUpXF
