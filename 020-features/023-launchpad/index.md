@@ -1,10 +1,12 @@
 # Launchpad & Candy
 
-Creators can choose from a variety of bespoke launch and mint variations to meet their goals.
+Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Uploading a White List CSV is as complicated as it gets.
 
 ## Gumball
 
 Superbolt offers a sophisticated Gumball Machine mechanism to provide randomized minting. (similar to putting a coin into a real gumball machine and getting a random-colored gumball).
+
+![Superbolt Gumball machine](7.png)
 
 ### How It Works:
 Users Pay a Fixed Price – Just like inserting a quarter into a gumball machine, buyers pay a set token price.
@@ -23,4 +25,3 @@ Large-Scale NFT Drops – Ideal for collections like PFP projects (Profile Pictu
 
 Airdrops & Rewards – Used to distribute NFTs as rewards to multiple users at once.
 
-![Superbolt Batch Minting](7.png)
