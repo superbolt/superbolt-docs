@@ -1,4 +1,4 @@
-# Fractionalised NFTs
+# Fractionalized NFTs
 
 ## What is NFT fractionalization?
 
