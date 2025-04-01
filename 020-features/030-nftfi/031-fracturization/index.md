@@ -15,6 +15,8 @@ The contract mints fungible tokens representing ownership shares of the NFT.
 3. Trading Fractions: These tokens can then be traded using Superbolt Liquidity Pools.
    
 4. Reunification (Optional): If one party buys enough fractions, they can reclaim full NFTs from the *Particle Accelerator*.
+
+![Superbolt Fractionalization](6.png)
    
 ## Why Fractionalize an NFT?
 - **Accessibility**: Allows more people to invest in expensive NFTs.
