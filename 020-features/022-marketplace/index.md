@@ -7,6 +7,12 @@ Superbolt provides a seamless, integrated market destination for collectors and 
 Our super clean marketplace UI/UX ensures that NFTs take centre stage. Multiple customisation options for users, including Gallery view for art lovers, List view for traders.
 
 ![Superbolt Marketplace](5.png)
-## Creating and listing NFTs
+## Sending and listing NFTs
+
+Superbolt makes it easy to send and list NFTs from Individual NFT pages. Whether you are transfering an NFT to another wallet or listing an NFT on the Marketplace, these actions are intuitive within the Superbolt GUI.
+
+![Individual NFT page](<Marketplace 2.png>)
 
 ## Marketplace walkthrough
+
+![NFT Collection page](<Marketplace 1-2.png>)
