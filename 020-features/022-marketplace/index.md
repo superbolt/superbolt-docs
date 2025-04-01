@@ -6,4 +6,8 @@ Superbolt provides a seamless, integrated market destination for collectors and 
 
 Our super clean marketplace UI/UX ensures that NFTs take centre stage. Multiple customisation options for users, including Gallery view for art lovers, List view for traders.
 
-<img width="1505" alt="Screenshot 2025-03-31 at 18 11 31" src="https://github.com/user-attachments/assets/bf58d04f-7beb-404c-970e-1f045bd6a931" />
+![alt text](<Superbolt 3-1 non branded 10.png>)
+
+## Creating and listing NFTs
+
+## Marketplace walkthrough

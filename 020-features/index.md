@@ -14,7 +14,7 @@ Innovative, no-code NFT launchpad - ideal for both new and experienced creators.
 
 Superbolt empowers users and communities through advanced Defi functionality for NFTs. Integrating Defi to the NFT scene facilitates as yet unseen yield generation strategies for NFTs.
 
-***
+![Superbolt performance optimization](4-1.png)
 
 ### Fast trading engine overview
 Trading NFTs shouldn't be a chore or a waiting game. Superbolt has been built with speed in mind.
