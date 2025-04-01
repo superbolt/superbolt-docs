@@ -1,6 +1,6 @@
 # Launchpad & Candy
 
-Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Uploading a White List CSV is as complicated as it gets.
+Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Simply upload a White List CSV and select mint and launch parameters.
 
 ## Gumball
 
