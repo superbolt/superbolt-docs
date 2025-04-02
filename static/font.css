@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Firs";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./files/firs-medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Firs";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./files/firs-demibold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TT Autonomous Mono Trl";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./files/tt-autonomous-mono-trl-regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TT Autonomous Mono Trl";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./files/tt-autonomous-mono-trl-bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Auto";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./files/auto-demibold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Auto Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./files/auto-mono-medium.ttf") format("truetype");
+}
