@@ -2,8 +2,11 @@ input: .
 output: .retype
 url: docs.superbolt.wtf
 branding:
-  title: Superbolt
+  title:
   # label: Docs
+  logo: static/logos/logo.svg
+  logoDark: static/logos/logo-dark.svg
+
 links:
   - text: Testnet
     link: https://testnet.superbolt.wtf
