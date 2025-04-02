@@ -1,3 +1,3 @@
-# Governance & veNFTs
+# Governance
 
 ## Coming soon
