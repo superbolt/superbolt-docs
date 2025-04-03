@@ -17,8 +17,6 @@ Reveal Mechanism – Minting on Superbolt is a two stage process. This ensures m
 
 Fair Distribution – This method ensures fairness and can prevent buyers from cherry-picking rare NFTs before others through on chain queries (this is more common that you think!)
 
-<video controls src="Superbolt minting.mov" title="Title"></video>
-
 ## Batch Minting
 
 Superbolt smart contracts supports creator-defined Batch minting to allow minting multiple NFTs in a single transaction rather than one at a time. This can support:
