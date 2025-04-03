@@ -1,6 +1,6 @@
 # Launchpad & Candy
 
-Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Simply upload a White List CSV and select mint and launch parameters.
+Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Simply upload a White List CSV, if necessary, and select mint and launch parameters.
 
 ## Gumball
 
@@ -16,6 +16,8 @@ Randomized Selection – The NFT they receive is randomly selected from a pre-de
 Reveal Mechanism – Minting on Superbolt is a two stage process. This ensures mints cannot be gamed. Our two stage mint ensures everyone has equal opportunity to mint the rarest NFTs!
 
 Fair Distribution – This method ensures fairness and can prevent buyers from cherry-picking rare NFTs before others through on chain queries (this is more common that you think!)
+
+<video controls src="Superbolt minting.mov" title="Title"></video>
 
 ## Batch Minting
 
