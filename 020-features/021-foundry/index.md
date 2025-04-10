@@ -21,6 +21,4 @@ Foundry is a no code platform for creators to easily bring NFT collections on-ch
 
 Discover how easy it is to upload NFT collections using Superbolt Foundry in the following video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wF76C2BqizA?si=b4MOME0-5YagBRu7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-🎥 https://youtu.be/wF76C2BqizA?si=Kj9-eAu-WBePUpXF
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/wF76C2BqizA?si=b4MOME0-5YagBRu7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
