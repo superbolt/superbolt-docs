@@ -5,4 +5,4 @@ At Superbolt, we believe that trading, owning, and earning with NFTs should be s
 
 ![Superbolt Protocol](3.png)
 
-Built around the ve(3,3) model, Superbolt unlocks deeper utility for NFTs through staking, voting, and revenue sharing, while pioneering NFT fractionalization — allowing users to split high-value NFTs into tradable fractions. This is NFTfi made simple, powerful, and scalable.
+Superbolt unlocks deeper utility for NFTs by pioneering NFT fractionalization — allowing users to split NFTs into tradable fractions which can then by LP'd in Astroport liquidity pools - all part of the Superbolt platform. This is NFTfi made simple, powerful, and fun.
