@@ -1,4 +1,4 @@
-# Launchpad & Candy
+# Minting
 
 Creators can choose from a variety of bespoke launch and mint variations to meet their goals, with everything configurable from the Foundry GUI. Simply upload a White List CSV, if necessary, and select mint and launch parameters.
 
