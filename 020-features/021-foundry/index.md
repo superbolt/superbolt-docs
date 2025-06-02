@@ -17,9 +17,9 @@ Also, planned are integrations with DAO DAO and Superbolt Superpools, making it 
 
 Foundry is a no code platform for creators to easily bring NFT collections on-chain. When you are ready to upload your NFT collection, the Foundry menus should feel intuitive. Simply add details about your NFT collection.
 
-Collection Name
-Collection Short Name
-Collection Description
+- Collection Name
+- Collection Short Name
+- Collection Description
 
 ![Foundty launchpad](<Foundry 1.png>)
 
