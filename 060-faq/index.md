@@ -1,4 +1,4 @@
-# FAQ
+# FAQ & Troubleshooting
 
 ## Common user questions
 
