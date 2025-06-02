@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start": "retype start",
+        "dev": "retype start"
+    },
+    "dependencies": {}
+}

@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.799398145631">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.9.0.802164204497">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.7.0">
+    <meta name="generator" content="Retype 3.9.0">
 
     <!-- Primary Meta Tags -->
     <title>Introduction</title>
@@ -30,13 +30,13 @@
     <meta property="twitter:description" content="Welcome to Superbolt 🌩 — the lightning-fast NFT marketplace designed for the future of NFTfi. At Superbolt, we believe that trading, owning, and...">
     <meta property="twitter:image" content="https://docs.superbolt.wtf/3.png">
 
-    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="resources/css/retype.css?v=3.7.0.799398145631" rel="stylesheet">
+    <link href="resources/css/retype.css?v=3.9.0.802164204497" rel="stylesheet">
 
-    <script data-cfasync="false" src="resources/js/config.js?v=3.7.0.799398145631" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="resources/js/retype.js?v=3.7.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.7.0.799398145631" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/config.js?v=3.9.0.802164204497" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/retype.js?v=3.9.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.9.0.802164204497" data-turbo-eval="false" defer></script>
 
     <link href="/static/custom.css" rel="stylesheet" />
 
@@ -117,7 +117,7 @@
     
         <div class="container relative flex bg-white">
             <!-- Sidebar Skeleton -->
-            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-gray-100 border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-white border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
             
                 <div class="flex items-center h-16 px-6">
                     <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
@@ -185,7 +185,7 @@
 <p>Welcome to Superbolt 🌩 — the lightning-fast NFT marketplace designed for the future of NFTfi.
 At Superbolt, we believe that trading, owning, and earning with NFTs should be seamless, intuitive, and blazing fast. Whether you&#x27;re a collector, creator, or DeFi power user, our platform empowers you to do more with your digital assets.</p>
 <p><figure class="content-center">
-    <img src="3.png" alt="Superbolt Protocol">
+    <img src="3.png" alt="Superbolt Protocol" />
     <figcaption class="caption">Superbolt Protocol</figcaption>
 </figure>
 </p>
@@ -197,7 +197,7 @@ At Superbolt, we believe that trading, owning, and earning with NFTs should be s
                             </div>
                             <footer class="clear-both">
                             
-                                <nav class="flex mt-14">
+                                <nav class="print:hidden flex mt-14">
                                     <div class="w-1/2">
                                     </div>
                             
@@ -214,9 +214,9 @@ At Superbolt, we believe that trading, owning, and earning with NFTs should be s
                             </footer>
                         </main>
                 
-                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
-                            <footer class="flex flex-wrap items-center justify-between">
-                                <div>
+                        <div class="print:border-none border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div class="print:hidden">
                                     <ul class="flex flex-wrap items-center text-sm">
                                         <li>
                                             <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://x.com/superbolt_wtf" target="_blank">Twitter</a>
@@ -232,7 +232,7 @@ At Superbolt, we believe that trading, owning, and earning with NFTs should be s
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                                <div class="print:justify-center docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>
