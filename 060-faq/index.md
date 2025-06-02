@@ -1,7 +1,6 @@
-# FAQs & Troubleshooting
+# FAQ
 
 ## Common user questions
 
-## Transaction issues
-
 ## Support and contact info
+Join the Superbolt Telegram group for Bug Reporting & Troubleshooting https://t.me/superbolt_wtf/
