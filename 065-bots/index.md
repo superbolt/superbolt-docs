@@ -13,7 +13,7 @@ Add @superbolt_wtf_bot to your Telegram group or channel.
 
 ### Step 2
 The bot can add individual collections, featured collections, or all collections.
-- For individual collections, run the command /subscribe@superbolt_wtf_bot <collection contract address>
-- For featured collections, run the command /subscribe@superbolt_wtf_bot featured
-- For all collections, run the command /subscribe@suerbolt_wtf_bot all
+- For individual collections, run the command `/subscribe@superbolt_wtf_bot <collection contract address>`
+- For featured collections, run the command `/subscribe@superbolt_wtf_bot featured`
+- For all collections, run the command `/subscribe@superbolt_wtf_bot all`
 ![Superbolt Telegram Bot](bot_setup_2.PNG)
