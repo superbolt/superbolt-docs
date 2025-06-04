@@ -1,6 +1,6 @@
-# Superbolt bots
+# Superbolt Bots
 
-## Telegram bot
+## Telegram Bot
 
 The Superbolt Telegram bot can show the new sales and new listings for individual collections, *featured* collections, or *all* collections.
 
